@@ -1,0 +1,61 @@
+
+
+{
+ 
+  "produtos": [
+    {
+      "id": 1,
+      "name": "bolsa preta",
+      "descricao": "Bolsa preta",
+      "preco":159.99,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "name": "bolsa bege",
+      "descricao": "Bolsa bege",
+      "price":129.99,
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "name": "bolsa azul",
+      "descricao": "Bolsa Azul",
+      "price":229.99,
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "name":"bolsa colorida ",
+      "descricao": "Bolsa colorida",
+      "price":209.99,
+      "categoria_id": 1
+    },
+    {
+      "id": 5,
+      "name":"bolsa croche",
+      "descricao": "Bolsa croche",
+      "price":189.99 ,
+      "categoria_id": 2
+    },
+    {
+      "id": 6,
+      "name": "bolsa vermelha",
+      "descricao": "Bolsa vermelha",
+      "price":289.99,
+      "categoria_id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "name": "bolsa preta"
+    },
+    {
+      "id": 2,
+      "name": "bolsa bege"
+    }
+  ]
+}
+
+  
